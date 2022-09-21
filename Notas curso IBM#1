@@ -1,0 +1,9 @@
+String o cadena es una secuencia de caracteres. Las cuales son una secuencia de caracteres, por lo cuál se pueden enumerar y con una serie de comandos podemos extraer
+un organizar una cadena como deseemos. 
+Una cadena podemos conectenarla, es decir una cadena con otra. Tambien podemos realizar operaciones en la cadena, ejemplo multiplicar.
+Para manejar espacios se utiliza \n, \t representa un tab, 
+Podemos realizar el cambio de minusculas a mayusculas b = a.upper()
+Podemos reemplazar parte de una cadena de texto b = a.replace('Michael', 'Janet')
+Podemos encontrar un texto especifico en una cadena name = "Michael Jackson" name.find('el')
+Es importante tener presente como se definen las variables, si es como una cadena o número, para una cadena es ""
+Podemos reemplazar cadenas dentro de una cadena, g.replace("Mary", "Bob")
